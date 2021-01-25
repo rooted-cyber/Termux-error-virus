@@ -1,4 +1,8 @@
-# Unzip command
+# unzip command
+
 <pre>
 
-cp ‌‌‌‌‌‌‌‌error‌‌‌‌‌‌‌.zip‌‌‌‌
+cp ‌‌‌‌‌‌‌‌error‌‌‌‌‌‌‌.zip‌‌‌‌‌ error.zip
+unzip error.zip
+
+</pre>
